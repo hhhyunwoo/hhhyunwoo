@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **qrlagusdn/qrlagusdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-### 📝 MLOps Engineer
-- MLOps Engineer at MakinaRocks
+### 📝 System Engineer
+- System Engineer at Kakaoenterprise
 
 ### 💡 Current Interests
 - To Reconcile ML Development, Deployment and Operation

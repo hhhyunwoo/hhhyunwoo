@@ -13,4 +13,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 -->
+
+
+### 📝 MLOps Engineer
+- MLOps Engineer at MakinaRocks
+
+### 💡 Current Interests
+- To Reconcile ML Development, Deployment and Operation
+- To Automate the inefficient things
+- K8s, Kubeflow, Katib
+
+### :mailbox_with_mail: Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qgusdngusdn@gmail.com)](mailto:qgusdngusdn@gmail.com)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/qrlagusdn/)](https://www.linkedin.com/in/qrlagusdn/)

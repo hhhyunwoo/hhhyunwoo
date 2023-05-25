@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 
 ### :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qgusdngusdn@gmail.com)](mailto:qgusdngusdn@gmail.com)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/qrlagusdn/)](https://www.linkedin.com/in/qrlagusdn/)
+
+If you want to check my resume, check it out [here](https://hhhyunwoo.github.io/about/)!

@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-### 📝 System Engineer
-- System Engineer at Kakaoenterprise
+### 📝 Software Engineer
+- Software Engineer at Kakaoenterprise
 
 ### 💡 Current Interests
 - To Reconcile ML Development, Deployment and Operation

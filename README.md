@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 
 
 -->
+<div align="center">
+
+I’m a software engineer who is curious about every new things. And “Keep Blitz and Be Simple”, “Keep It Simple Stupid” is my motto. I always try to be simple. 😊
+
+“Keep Blitz and Be Simple” 과 “Keep It Simple Stupid” 를 좌우명으로 가지고 있으며 생생한 꿈을 현실로 만들기 위해 노력하는 호기심 많은 소프트웨어 엔지니어입니다.
+
+<div align=center>
 
 
 ### 📝 Software Engineer

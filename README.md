@@ -25,7 +25,7 @@ I’m a software engineer who is curious about every new things.
 ---
 
 ### 📝 Software Engineer
-- Software Engineer at Kakaoenterprise
+- Machine Learning Engineer at Tossbank
 
 ### 💡 Current Interests
 - To Reconcile ML Development, Deployment and Operation
@@ -41,8 +41,8 @@ I’m a software engineer who is curious about every new things.
         </a>
       </li>
       <li>
-        <a href="mailto:hans.rw@kakaoenterprise.com">
-          <img src="https://img.shields.io/badge/-KakaoEnterprise-yellow?style=flat-square&logoColor=white" alt="KEP Badge">
+        <a href="mailto:hans.818@tossbank.com">
+          <img src="https://img.shields.io/badge/-Tossbank-blue?style=flat-square&logoColor=white" alt="KEP Badge">
         </a>
       </li>
     </ul>

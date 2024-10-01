@@ -27,7 +27,7 @@ I’m a software engineer who is curious about every new things.
 ### 💡 Current Interests
 - To Reconcile ML Development, Deployment and Operation
 - To Automate the inefficient things
-- K8s, Kubeflow, Katib
+- K8s, MLOps, LLM
 
 <div>
     <h3>📮 Contacts</h3>

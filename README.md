@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 I’m a software engineer who is curious about every new things. 
-<br>And “Keep Blitz and Be Simple”**, **“Keep It Simple Stupid” is my motto. I always try to be simple. 😊
+<br>And “Keep Blitz and Be Simple”, “Keep It Simple Stupid” is my motto. I always try to be simple. 😊
 </div>
 
 ---

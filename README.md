@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 -->
 <div align="center">
-  <p><a href="https://hhhyunwoo.github.io/about/" target="_blank"><img src="https://img.shields.io/badge/BLOG-blue?style=flat&logoColor=white"/></a></p>
-
 I’m a software engineer who is curious about every new things. 
 <br>And **“Keep Blitz and Be Simple”**, **“Keep It Simple Stupid”** is my motto. I always try to be simple. 😊
 </div>

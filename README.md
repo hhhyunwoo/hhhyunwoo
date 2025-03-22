@@ -22,7 +22,7 @@ I’m a software engineer who is curious about every new things.
 ---
 
 ### 📝 Software Engineer
-- Machine Learning Engineer at Tossbank
+- Software Engineer @ Tossbank
 
 ### 💡 Current Interests
 - To Reconcile ML Development, Deployment and Operation
@@ -33,7 +33,7 @@ I’m a software engineer who is curious about every new things.
     <h3>📮 Contacts</h3>
     <ul>
       <li>
-        <a href="mailto:qgusdngusdn@gmail.com">
+        <a href="mailto:hyunwoo.h.kim@gmail.com">
           <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
         </a>
       </li>

@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 
 -->
 <div align="center">
-I’m a software engineer who is curious about every new things. 
+I’m a Machine Learning Engineer who is curious about every new things. 
 <br>And “Keep Blitz and Be Simple”, “Keep It Simple Stupid” is my motto. I always try to be simple. 😊
 </div>
 
 ---
 
 ### 📝 Software Engineer
-- Software Engineer @ Tossbank
+- Machine Learning Engineer @ Tossbank
 
 ### 💡 Current Interests
 - To Reconcile ML Development, Deployment and Operation

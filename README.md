@@ -37,11 +37,6 @@ I’m a Machine Learning Engineer who is curious about every new things.
           <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
         </a>
       </li>
-      <li>
-        <a href="mailto:hans.818@tossbank.com">
-          <img src="https://img.shields.io/badge/-Tossbank-blue?style=flat-square&logoColor=white" alt="KEP Badge">
-        </a>
-      </li>
     </ul>
     <h3>📚 Blog</h3>
     <ul>

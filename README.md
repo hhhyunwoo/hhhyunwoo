@@ -1,69 +1,21 @@
-<!--
-**qrlagusdn/qrlagusdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hans H. Kim
 
-Here are some ideas to get you started:
+> **Machine Learning Engineer** • Keep Blitz and Be Simple
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm a machine learning engineer specializing in **MLOps platform development**, **DevOps engineering**, and **cloud-native technologies**. With extensive experience in operating large-scale systems, I've successfully managed over 2000 GPUs and built robust, scalable infrastructure solutions.
 
+## 💡 Core Expertise
+- **MLOps & Platform Engineering**: Kubeflow, Airflow, Model serving infrastructure
+- **Cloud Native**: Kubernetes, Docker, ArgoCD, Helm, Microservices
+- **Databases**: ScyllaDB, MongoDB, Elasticsearch
+- **Languages**: Python, Go, JavaScript, C/C++
+- **DevOps**: CI/CD, System monitoring, Large-scale infrastructure
 
--->
-<div align="center">
-I’m a Machine Learning Engineer who is curious about every new things. 
-<br>And “Keep Blitz and Be Simple”, “Keep It Simple Stupid” is my motto. I always try to be simple. 😊
-</div>
+## 📫 Connect
+- **Email**: [hyunwoo.h.kim@gmail.com](mailto:hyunwoo.h.kim@gmail.com)
+- **LinkedIn**: [hyunwoo-hans-kim](https://www.linkedin.com/in/hyunwoo-hans-kim/)
+- **Blog**: [hhhyunwoo.github.io](https://hhhyunwoo.github.io/)
+- **Portfolio**: [bit.ly/3DOJRqp](https://bit.ly/3DOJRqp)
 
 ---
-
-### 📝 Software Engineer
-- Machine Learning Engineer @ Tossbank
-
-### 💡 Current Interests
-- To Reconcile ML Development, Deployment and Operation
-- To Automate the inefficient things
-- K8s, MLOps, LLM
-
-<div>
-    <h3>📮 Contacts</h3>
-    <ul>
-      <li>
-        <a href="mailto:hyunwoo.h.kim@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
-        </a>
-      </li>
-    </ul>
-    <h3>📚 Blog</h3>
-    <ul>
-      <li>
-        <a href="https://hhhyunwoo.github.io/">
-          <img src="https://img.shields.io/badge/-GithubBlog-black?style=flat-square&logo=Github&logoColor=white" alt="Github Blog Badge">
-        </a>
-      </li>
-      <li>
-        <a href="https://qrlagusdn.tistory.com/">
-          <img src="https://img.shields.io/badge/-TistoryBlog-black?style=flat-square&logoColor=white" alt="Tistory Blog Badge">
-        </a>
-      </li>
-    </ul>
-    <h3>🔗 SNS</h3>
-    <ul>
-      <li>
-        <a href="https://github.com/hhhyunwoo">
-          <img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white" alt="Github Badge">
-        </a>
-      </li>
-      <li>
-        <a href="https://www.linkedin.com/in/qrlagusdn/">
-          <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
-        </a>
-      </li>
-    </ul>
-  </div>
-
-If you want to check my resume, check out [my blog](https://hhhyunwoo.github.io/about/) and [Linkedin](https://www.linkedin.com/in/qrlagusdn/)!! 
+*"Keep It Simple Stupid" - Always striving for simplicity and efficiency in problem-solving* 
